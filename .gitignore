@@ -1,6 +1,17 @@
 .node
-node_modules/
 __pycache__/
-package-lock.json
 migrations/
+
+#Package
+node_modules/
+package-lock.json
+
+
+# Visual Studio code
+.vscode
+
+#Git
+.git
+
+#Database
 db.sqlite3
